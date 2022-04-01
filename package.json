@@ -1,5 +1,5 @@
 {
-  "name": "catstronauts-client",
+  "name": "odyssey-lift-off-cert-client",
   "version": "1.0.0",
   "private": true,
   "description": "front-end demo app for Apollo's lift-off course",
@@ -47,6 +47,6 @@
     "@testing-library/user-event": "^7.1.2"
   },
   "main": "src/index.js",
-  "author": "Raphael Terrier @R4ph-t",
+  "author": "Cristina Tarantino",
   "license": "MIT"
 }
