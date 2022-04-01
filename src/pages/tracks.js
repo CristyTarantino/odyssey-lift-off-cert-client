@@ -8,7 +8,7 @@ export const TRACKS = gql`
         tracksForHome {
             id
             title
-            length
+            durationInSeconds
             thumbnail
             modulesCount
             author {
